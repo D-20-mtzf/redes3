@@ -1,4 +1,4 @@
-Protocolos de red
+Protocolos de red / Daniel Martinez / Unimonserrate
 
 Definición
 
@@ -8,17 +8,32 @@ En las redes, un protocolo es un conjunto de reglas para formatear y procesar da
 Criterios de clasificación o tipos de clasificación
 Estos son algunos protocolos:
 
--Protocolos (Redes) Orientados y no orientados a la conexión
--Redes (Protocolos) Orientadas a la conexión
--Redes (Protocolos) no orientadas a la conexión
--Protocolos Estructurados y no Estructurados
--Protocolos Estructurados
--Protocolos no estructurados
--Protocolos orientados al caracter y orientados al bit.
--Protocolos orientados al caracter
--Protocolos orientados al bit
+-Protocolos (Redes) Orientados y no orientados a la conexión: Este tipo de división es en base al método que emplean para hacer llegar la información desde el ETD origen al ETD destino.
 
-protocolos principales 
+-Redes (Protocolos) Orientadas a la conexión: Una red es orientada a la conexión cuando para poder transmitir información, se debe primero
+definir un canal físico o lógico entre Fuente y Destino.
+
+-Redes (Protocolos) no orientadas a la conexión: Este tipo de redes, se caracteriza fundamentalmente en la confiabilidad y el ancho de banda del canal de comunicaciones.
+
+-Protocolos Estructurados y no Estructurados: Este punto de visto analiza el grado de ajuste que brinda un protocolo respecto a lo propuesto por el modelo OSI.
+
+-Protocolos Estructurados: Se ajustan estrictamente al esquema de funciones y servicios de cada capa del modelo OSI. Son
+ejemplo de esto la familia de protocolos HDLC que se tratará más adelante.
+
+-Protocolos no estructurados: Por el contrario a lo anterior, no se ajustan al esquema de niveles OSI, presentando la
+característica de ser algunos propietarios de alguna Empresa comercial como podría ser el caso de BSC o SDLC de IBM.
+
+-Protocolos orientados al caracter y orientados al bit: Otra clasificación que se tratará es referida a la forma en que transporta la información y las instrucciones de control dentro del formato de los mensajes.
+
+-Protocolos orientados al caracter: El formato de los mensajes se interpreta por medio de determinados parámetros que se tratarán
+más adelante, esta interpretación es llevada a cabo por medio de caracteres de seis, siete u ocho
+bit.
+
+-Protocolos orientados al bit: La interpretación es llevada a cabo por secuencias de estados lógicos (bit), minimizando con
+estos los problemas anteriormente comentados.
+
+Protocolos principales 
+
 FTP (protocolo de transferencia de archivos)
 El protocolo de transferencia de archivos (FTP) es un protocolo de Internet estándar que se utiliza para transmitir archivos entre computadoras mediante conexiones TCP/IP.
 
@@ -35,6 +50,7 @@ HTTP (protocolo de transferencia de hipertexto)
 HTTP es un conjunto de reglas para transferir archivos (texto, imágenes gráficas, archivos de audio, video y otros archivos multimedia) en la World Wide Web (WWW).
 
 Bibliografía
+
 del modelo OSI, C. U. de E. C. U. o. V. C., Realidad, L., De un protocolo, es Q. P. E. la C. E. dos E. se E. M., De protocolos aislados, es P. E. R. Q. se S. H. no, De ellos, S. Q. al H. M. de A., De protocolos, se S. E. Q. se E. H. de U. P., de un nivel OSI, la C. A. M., & de ello X., S. E. (s/f). Clasificación de protocolos. Mhe.es. Recuperado el 14 de agosto de 2023, de
 https://mhe.es/cf/ciclos_informatica/844819974X/archivos/unidad4_recurso1.pdf
 
