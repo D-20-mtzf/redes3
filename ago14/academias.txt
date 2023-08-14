@@ -1,0 +1,15 @@
+Daniel Martinez / Unimonserrate
+
+Alternativas de formacion en redes de computades con posibilidad de certificacion existente
+CCNA: Switching, Routing, and Wireless Essentials
+Este curso se centra en las tecnologías de conmutación y las operaciones de enrutadores que admiten redes de pequeñas y medianas empresas, incluidas las redes de área local inalámbricas (WLAN) y los conceptos de seguridad.
+En este segundo curso de una serie CCNA de 3 cursos, realizará la configuración básica de la red y la resolución de problemas, identificará y mitigará las amenazas de seguridad de la LAN y configurará y asegurará una WLAN básica.
+Preparación recomendada: CCNA: Introducción a las Redes o tener conocimientos equivalentes. Después de completar los tres cursos de CCNA, está listo para tomar la Certificación CCNA.
+Requisitos
+Requisitos
+Costos
+procedimientos a seguir
+fechas
+https://www.netacad.com/portal/nextgen-academies?academy_type=ca&location=Bogota%20Colombia&field_geofield_distance%5Bdistance%5D=1000&field_geofield_distance%5Bunit%5D=6371&field_geofield_distance%5Borigin%5D=4.7109886%2C-74.072092&field_address_country=CO
+
+
