@@ -1,8 +1,43 @@
+Protocolos de red
+
 Definición
+
 Un protocolo es un conjunto de normas y seguimientos para asegurar un buen funcionamiento
 En las redes, un protocolo es un conjunto de reglas para formatear y procesar datos. Los protocolos de red son como una lengua franca para los ordenadores. Los ordenadores de una red pueden utilizar software y hardware muy diferentes; sin embargo, el uso de protocolos les permite comunicarse entre sí. 
-https://www.cloudflare.com/es-es/learning/network-layer/what-is-a-protocol/
+
 Criterios de clasificación o tipos de clasificación
+Estos son algunos protocolos:
+
+-Protocolos (Redes) Orientados y no orientados a la conexión
+-Redes (Protocolos) Orientadas a la conexión
+-Redes (Protocolos) no orientadas a la conexión
+-Protocolos Estructurados y no Estructurados
+-Protocolos Estructurados
+-Protocolos no estructurados
+-Protocolos orientados al caracter y orientados al bit.
+-Protocolos orientados al caracter
+-Protocolos orientados al bit
 
 protocolos principales 
-Referir max 3 de las fuentes
+FTP (protocolo de transferencia de archivos)
+El protocolo de transferencia de archivos (FTP) es un protocolo de Internet estándar que se utiliza para transmitir archivos entre computadoras mediante conexiones TCP/IP.
+
+SSH (Secure Shell)
+También conocido como Secure Shell o Secure Socket Shell, es un protocolo de red que proporciona a los usuarios, especialmente a los administradores de sistema, una forma segura de acceder a una computadora a través de una red no segura.
+
+SMTP (protocolo de transferencia simple de correo)
+Es el protocolo estándar para servicios de mensajería en una red TCP / IP. SMTP ofrece la posibilidad de enviar y recibir correos electrónicos.
+
+POP3 (Post Office Protocol)
+POP es un protocolo estándar de Internet que extrae y recupera el correo electrónico de un servidor de correo electrónico remoto para permitir que la máquina host acceda a él. 
+
+HTTP (protocolo de transferencia de hipertexto)
+HTTP es un conjunto de reglas para transferir archivos (texto, imágenes gráficas, archivos de audio, video y otros archivos multimedia) en la World Wide Web (WWW).
+
+Bibliografía
+del modelo OSI, C. U. de E. C. U. o. V. C., Realidad, L., De un protocolo, es Q. P. E. la C. E. dos E. se E. M., De protocolos aislados, es P. E. R. Q. se S. H. no, De ellos, S. Q. al H. M. de A., De protocolos, se S. E. Q. se E. H. de U. P., de un nivel OSI, la C. A. M., & de ello X., S. E. (s/f). Clasificación de protocolos. Mhe.es. Recuperado el 14 de agosto de 2023, de
+https://mhe.es/cf/ciclos_informatica/844819974X/archivos/unidad4_recurso1.pdf
+
+Protocolos de red: consulta los principales tipos. (s/f). Hostgator.mx. Recuperado el 14 de agosto de 2023, de https://www.hostgator.mx/blog/protocolos-de-red/
+
+(S/f). Cloudflare.com. Recuperado el 14 de agosto de 2023, de https://www.cloudflare.com/es-es/learning/network-layer/what-is-a-protocol/
