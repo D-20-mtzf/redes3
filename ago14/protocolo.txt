@@ -1,0 +1,8 @@
+Definición
+Un protocolo es un conjunto de normas y seguimientos para asegurar un buen funcionamiento
+En las redes, un protocolo es un conjunto de reglas para formatear y procesar datos. Los protocolos de red son como una lengua franca para los ordenadores. Los ordenadores de una red pueden utilizar software y hardware muy diferentes; sin embargo, el uso de protocolos les permite comunicarse entre sí. 
+https://www.cloudflare.com/es-es/learning/network-layer/what-is-a-protocol/
+Criterios de clasificación o tipos de clasificación
+
+protocolos principales 
+Referir max 3 de las fuentes
