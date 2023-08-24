@@ -1,15 +1,73 @@
 Daniel Martinez / Unimonserrate
 
 Alternativas de formacion en redes de computades con posibilidad de certificacion existente
-CCNA: Switching, Routing, and Wireless Essentials
-Este curso se centra en las tecnologías de conmutación y las operaciones de enrutadores que admiten redes de pequeñas y medianas empresas, incluidas las redes de área local inalámbricas (WLAN) y los conceptos de seguridad.
-En este segundo curso de una serie CCNA de 3 cursos, realizará la configuración básica de la red y la resolución de problemas, identificará y mitigará las amenazas de seguridad de la LAN y configurará y asegurará una WLAN básica.
-Preparación recomendada: CCNA: Introducción a las Redes o tener conocimientos equivalentes. Después de completar los tres cursos de CCNA, está listo para tomar la Certificación CCNA.
+
+cisco: Designing Cisco Enterprise Wireless Networks (ENWLSI) v1.1 (Diseño de redes inalámbricas empresariales de Cisco)
+El curso Implementing Cisco Enterprise Wireless Networks (ENWLSI) le proporciona los conocimientos y habilidades necesarias para asegurar la infraestructura de red inalámbrica y solucionar cualquier problema relacionado.
+Usted aprenderá cómo implementar y asegurar una infraestructura de red inalámbrica y utilizar Cisco Identity Service Engine (Cisco ISE), Cisco Prime Infrastructure (Cisco PI), y Cisco Connect Mobile Experience para supervisar y solucionar problemas de red.
+
+Requisitos: Antes de realizar este curso, deberá tener
+Conocimientos generales de redes
+Conocimientos generales de redes inalámbricas
+Conocimientos de enrutamiento y conmutación
+
+Costos: $800.00 usd
+procedimientos a seguir: Tener cuenta cisco para poder acceder al curso y efectuar el pago para empezar el curso de manera remota con acceso de 180 dias
+Certificacion
+Associated Certification: CCNP Enterprise
+
+Associated Exam: 300-430 ENWLSI
+https://learningnetworkstore.cisco.com/on-demand-e-learning/implementing-cisco-enterprise-wireless-networks-enwlsi-v1.1/ELT-ENWLSI-V1-023868.html?dtid=osscdc000283
+
+cisco: Implementing and Operating Cisco Security Core Technologies (SCOR) v1.0 (Implementation and operation of Cisco Security Core Technologies (SCOR) v1.0)
+En este curso, usted dominará las habilidades y tecnologías que necesita para implementar soluciones de seguridad de Cisco para proporcionar una protección avanzada contra los ataques de ciberseguridad. Aprenderás seguridad para redes, nube y contenido, protección de puntos finales, acceso seguro a la red, visibilidad y refuerzos.
+
+Para beneficiarse plenamente de este curso, debe tener los siguientes conocimientos y habilidades:
+Habilidades y conocimientos equivalentes a los aprendidos en el curso Implementing and Administering Cisco Solutions (CCNA).
+Familiaridad con redes Ethernet y TCP/IP
+Conocimientos prácticos de Microsoft Windows
+Conocimientos prácticos de redes y conceptos de Cisco IOS
+Familiaridad con los conceptos básicos de seguridad en redes
+
+costo: $500.00 usd
+
+Certificacion 
+Associated Certifications: CCNP Security, CCIE Security
+Associated Exam: 350-701 SCOR
+https://learningnetworkstore.cisco.com/on-demand-e-learning/implementing-and-operating-cisco-security-core-technologies-scor-v1.0/ELT-SCOR-V1-024113.html
+
+Udemy: Python Practicando. Desde 0 hasta Desarrollador en Python por Alvaro Chirou 
+Aprende Python, donde iniciamos desde 0, sin conocimientos previos hasta desarrollar aplicaciones con mucha practica!
+Este curso incluye:
+25,5 horas de vídeo bajo demanda
+21 artículos
+148 recursos descargables
+Acceso en dispositivos móviles y TV
+Acceso de por vida
+Certificado de finalización
 Requisitos
+Contar con internet y computadora.
+Tener intenciones de aprender python3.
+Costo: 34.900 COL$
+procedimientos a seguir: Tener cuenta Udemy para poder acceder al curso y efectuar el pago para empezar el curso de manera remota
+https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/
+
+U edutin academy: Curso redes
+En este curso de redes aprenderás acerca de la manera como funcionan las redes, sus principales características y de qué modo se puede implementar. Es fácil de aprender y solo se requiere tener conocimientos elementales.
+
+4 semanas estimadas
+Video clases
+Aprende a través de videos explicativos y lecturas concretas
+Título a certificar
+Fundamentos Profesionales en Redes de Computadoras. By Edutin Academy USA
+
 Requisitos
-Costos
-procedimientos a seguir
-fechas
-https://www.netacad.com/portal/nextgen-academies?academy_type=ca&location=Bogota%20Colombia&field_geofield_distance%5Bdistance%5D=1000&field_geofield_distance%5Bunit%5D=6371&field_geofield_distance%5Borigin%5D=4.7109886%2C-74.072092&field_address_country=CO
+internet y no es necesatio tener conocimientos previos respecto a redes
+Costo: gratis
+procedimientos a seguir: Tener cuenta edutin para poder acceder al curso y efectuar el pago para empezar el curso de manera remota
+
+
+
+
 
 
