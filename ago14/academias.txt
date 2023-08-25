@@ -119,4 +119,12 @@ Qué se examina: Diagnóstico, análisis del rendimiento de la base de datos, co
 proceso a seguir: Empezar es muy fácil. Sólo tiene que registrarse en SolarWinds y buscar un correo electrónico de confirmación. A continuación, comience a estudiar utilizando la Guía de estudio del examen asociada. Una vez listo, simplemente siga las instrucciones para registrarse y programar el examen.
 https://support.solarwinds.com/solarwinds-certified-professional-program
 
+7) VMWare Certified Technical Associate - Network Virtualization (VCTA-NV)
+Si está interesado en la virtualización, obtener la certificación VCTA-NV puede ser una buena forma de iniciarte en los aspectos esenciales de la plataforma de virtualización de redes VMWare NSX. Con la certificación, pondrás a prueba tus conocimientos básicos de la terminología de NSX, las interfaces gráficas de usuario y otros conocimientos técnicos básicos.
 
+Costo: $2,532.80 (125 USD) 90 Minutes  30 Questions 
+
+Requisitos: Requiere un examen. No hay requisitos previos.
+
+Qué se evalúa: Instalación, configuración y puesta en marcha, ajuste del rendimiento, optimización y actualizaciones, arquitectura y tecnologías fundamentales, planificación y diseño, y resolución de problemas.
+https://www.vmware.com/learning/certification/vcta-nv.html
