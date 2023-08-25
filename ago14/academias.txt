@@ -2,7 +2,7 @@ Daniel Martinez / Unimonserrate
 
 Alternativas de formacion en redes de computades con posibilidad de certificacion existente
 
-cisco: Designing Cisco Enterprise Wireless Networks (ENWLSI) v1.1 (Diseño de redes inalámbricas empresariales de Cisco)
+1) cisco: Designing Cisco Enterprise Wireless Networks (ENWLSI) v1.1 (Diseño de redes inalámbricas empresariales de Cisco)
 El curso Implementing Cisco Enterprise Wireless Networks (ENWLSI) le proporciona los conocimientos y habilidades necesarias para asegurar la infraestructura de red inalámbrica y solucionar cualquier problema relacionado.
 Usted aprenderá cómo implementar y asegurar una infraestructura de red inalámbrica y utilizar Cisco Identity Service Engine (Cisco ISE), Cisco Prime Infrastructure (Cisco PI), y Cisco Connect Mobile Experience para supervisar y solucionar problemas de red.
 
@@ -19,7 +19,7 @@ Associated Certification: CCNP Enterprise
 Associated Exam: 300-430 ENWLSI
 https://learningnetworkstore.cisco.com/on-demand-e-learning/implementing-cisco-enterprise-wireless-networks-enwlsi-v1.1/ELT-ENWLSI-V1-023868.html?dtid=osscdc000283
 
-cisco: Implementing and Operating Cisco Security Core Technologies (SCOR) v1.0 (Implementation and operation of Cisco Security Core Technologies (SCOR) v1.0)
+2) cisco: Implementing and Operating Cisco Security Core Technologies (SCOR) v1.0 (Implementation and operation of Cisco Security Core Technologies (SCOR) v1.0)
 En este curso, usted dominará las habilidades y tecnologías que necesita para implementar soluciones de seguridad de Cisco para proporcionar una protección avanzada contra los ataques de ciberseguridad. Aprenderás seguridad para redes, nube y contenido, protección de puntos finales, acceso seguro a la red, visibilidad y refuerzos.
 
 Para beneficiarse plenamente de este curso, debe tener los siguientes conocimientos y habilidades:
@@ -36,7 +36,7 @@ Associated Certifications: CCNP Security, CCIE Security
 Associated Exam: 350-701 SCOR
 https://learningnetworkstore.cisco.com/on-demand-e-learning/implementing-and-operating-cisco-security-core-technologies-scor-v1.0/ELT-SCOR-V1-024113.html
 
-Udemy: Python Practicando. Desde 0 hasta Desarrollador en Python por Alvaro Chirou 
+3) Udemy: Python Practicando. Desde 0 hasta Desarrollador en Python por Alvaro Chirou 
 Aprende Python, donde iniciamos desde 0, sin conocimientos previos hasta desarrollar aplicaciones con mucha practica!
 Este curso incluye:
 25,5 horas de vídeo bajo demanda
@@ -49,10 +49,10 @@ Requisitos
 Contar con internet y computadora.
 Tener intenciones de aprender python3.
 Costo: 34.900 COL$
-procedimientos a seguir: Tener cuenta Udemy para poder acceder al curso y efectuar el pago para empezar el curso de manera remota
+procedimientos a seguir: Tener cuenta Udemy para poder acceder al curso y efectuar el pago para empezar el curso de manera remota por medio de videos
 https://www.udemy.com/course/aprende-el-lenguaje-de-programacion-python3-practicando/
 
-U edutin academy: Curso redes
+4) U edutin academy: Curso redes
 En este curso de redes aprenderás acerca de la manera como funcionan las redes, sus principales características y de qué modo se puede implementar. Es fácil de aprender y solo se requiere tener conocimientos elementales.
 
 4 semanas estimadas
@@ -62,11 +62,18 @@ Título a certificar
 Fundamentos Profesionales en Redes de Computadoras. By Edutin Academy USA
 
 Requisitos
-internet y no es necesatio tener conocimientos previos respecto a redes
-Costo: gratis
-procedimientos a seguir: Tener cuenta edutin para poder acceder al curso y efectuar el pago para empezar el curso de manera remota
+internet y no es necesatio tener conocimientos previos respecto a redes pero si los tiene mejor
+Costo: gratis el aprendizaje pero al finalizar se puede pagar por el certificado
+Valor sin descuento
+213,739 (COP)
+Descuento aplicado solo hasta el 1 de septiembre
+60%
+TOTAL
+81,424 (COP)
+procedimientos a seguir: Tener cuenta edutin para poder acceder al curso y efectuar el pago para empezar el curso de manera remota por medio de videos
+https://edutin.com/curso-de-redes-4158
 
-CompTIA Network
+5) Coursera: CompTIA Network
 La certificación CompTIA Network+, que no depende de ningún proveedor, pone a prueba tu comprensión de los fundamentos de las redes, independientemente de la empresa de la que proceda la tecnología de redes. CompTIA también ofrece la certificación CompTIA A+ para aquellos que buscan puestos de trabajo de TI de nivel de entrada—el Certificado profesional de Soporte de TI de Google puede capacitarte para esto.
 
 Especificaciones:
@@ -80,12 +87,36 @@ Requisitos: Requiere un examen. No hay requisitos previos, aunque se recomiendan
 Qué se examina: Conceptos esenciales de redes, tecnologías de cableado, dispositivos y almacenamiento, gestión de redes, seguridad, y metodología y herramientas de resolución de problemas.
 https://www.coursera.org/professional-certificates/google-it-support?action=enroll
 
-Asociado certificado de Juniper Networks - Junos (JNCIA-Junos)
+
+6) Asociado certificado de Juniper Networks - Junos (JNCIA-Junos)
 La JNCIA-Junos es la certificación de nivel asociado para las tecnologías de Juniper Networks. Es el primer paso necesario para aquellos que quieren seguir con certificaciones más avanzadas de Juniper Networks en tecnologías de centros de datos, enrutamiento y conmutación de empresas o enrutamiento y conmutación de proveedores de servicios.
 
 Costo: $4,052.48 (200 USD)
-
 Requisitos: Requiere un examen. No hay requisitos previos.
 
 Qué se examina: Fundamentos del sistema operativo Junos—arquitectura de software y procesamiento de tráfico en tránsito, fundamentos de configuración, política de enrutamiento y filtros de cortafuegos.
+
+Horarios
+Live Fundamental Courses Offered 
+AMER Sessions
+July 31, 2023 - 9:00am - 11:00am PDT
+August 28, 2023 - 9:00am - 11:00am PDT
+September 25, 2023 - 9:00am - 11:00am PDT
+
+APAC Sessions
+July 31, 2023 - 1:00pm - 3:00pm SGT
+August 28, 2023 - 1:00pm - 3:00pm SGT
+September 25, 2023 - 1:00pm - 3:00pm SG
+ https://jumpstartjunos.splashthat.com
+
+Profesional certificado de SolarWinds
+Con la credencial de Profesional certificado de SolarWinds podrás utilizar y mantener los productos de red y sistemas de SolarWinds. Los productos de SolarWinds se utilizan de forma destacada en determinados sectores, como el gubernamental y el contable.
+
+Costo: $4,052.48 (200 USD)
+Requisitos: Requiere un examen. No hay requisitos previos.
+Qué se examina: Diagnóstico, análisis del rendimiento de la base de datos, configuración de la red, monitorización del rendimiento, arquitectura de la red.
+
+proceso a seguir: Empezar es muy fácil. Sólo tiene que registrarse en SolarWinds y buscar un correo electrónico de confirmación. A continuación, comience a estudiar utilizando la Guía de estudio del examen asociada. Una vez listo, simplemente siga las instrucciones para registrarse y programar el examen.
+https://support.solarwinds.com/solarwinds-certified-professional-program
+
 
