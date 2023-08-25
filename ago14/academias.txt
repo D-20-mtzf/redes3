@@ -66,8 +66,26 @@ internet y no es necesatio tener conocimientos previos respecto a redes
 Costo: gratis
 procedimientos a seguir: Tener cuenta edutin para poder acceder al curso y efectuar el pago para empezar el curso de manera remota
 
+CompTIA Network
+La certificación CompTIA Network+, que no depende de ningún proveedor, pone a prueba tu comprensión de los fundamentos de las redes, independientemente de la empresa de la que proceda la tecnología de redes. CompTIA también ofrece la certificación CompTIA A+ para aquellos que buscan puestos de trabajo de TI de nivel de entrada—el Certificado profesional de Soporte de TI de Google puede capacitarte para esto.
 
+Especificaciones:
+Nivel principiante
+6 meses con 10 horas a la semana
+Cronograma flexible
+Costo: $7,699.70 (338 USD) y cuenta con ayuda economica
 
+Requisitos: Requiere un examen. No hay requisitos previos, aunque se recomiendan entre nueve y 12 meses de experiencia en redes o la certificación CompTIA A+.
 
+Qué se examina: Conceptos esenciales de redes, tecnologías de cableado, dispositivos y almacenamiento, gestión de redes, seguridad, y metodología y herramientas de resolución de problemas.
+https://www.coursera.org/professional-certificates/google-it-support?action=enroll
 
+Asociado certificado de Juniper Networks - Junos (JNCIA-Junos)
+La JNCIA-Junos es la certificación de nivel asociado para las tecnologías de Juniper Networks. Es el primer paso necesario para aquellos que quieren seguir con certificaciones más avanzadas de Juniper Networks en tecnologías de centros de datos, enrutamiento y conmutación de empresas o enrutamiento y conmutación de proveedores de servicios.
+
+Costo: $4,052.48 (200 USD)
+
+Requisitos: Requiere un examen. No hay requisitos previos.
+
+Qué se examina: Fundamentos del sistema operativo Junos—arquitectura de software y procesamiento de tráfico en tránsito, fundamentos de configuración, política de enrutamiento y filtros de cortafuegos.
 
